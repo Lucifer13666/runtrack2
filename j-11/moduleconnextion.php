@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Bienvenue sur le module de t'ai mort </h1>
-      <p> Bonjour que fait tu ici petite fille veut tu toucher une grosse branche</p>
+    <h1> Bienvenue sur le module de connexion</h1>
+      <p> Bonjour que fait tu ici</p>
        
 
 </body>
